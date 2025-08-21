@@ -14,7 +14,7 @@ on:
         required: false
         default: 'true'
   schedule:
-    - cron: '*/60 * * * *'
+    - cron: '0 */48 * * *'
 
 jobs:
   generate-nodes-list:
