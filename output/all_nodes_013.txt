@@ -1,24 +1,5 @@
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TWpkbFptWTRZV0l5WkRVME9HTmtOdz09Ok5EWXlNVGcwT1RjdE9XUTFNaTAwTUE9PQ@qc456987.kxrdy.cn:24795#%F0%9F%87%B8%F0%9F%87%ACSingapore%2003
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:35311?security=reality&type=tcp&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD2%20%7C%20%E2%AC%87%EF%B8%8F%208.2MB%2Fs%20%7C50%25%7CDisney%7COpenai
-ss://YWVzLTEyOC1nY206NzVhYWJjOTUtY2YwMy00MDVkLThhNGQtZDIxN2RiZjM0MmFm@awes35lesl.blhao0o.dpdns.org:12031#%f0%9f%87%a8%f0%9f%87%b3+%e5%8f%b0%e6%b9%be_%e9%9d%92%e4%ba%91%e4%b8%93%e7%ba%bf_%e5%8d%a1%e7%bb%b4%e7%9a%84%e5%8e%9f%e7%9f%b3
-ss://YWVzLTEyOC1nY206MWIwZjRlOTAtMjUwMy00OGU1LTg1NTQtZGRjZTQ1NjE3YjNm@awes35lesl.blhao0o.dpdns.org:12010#%f0%9f%87%ad%f0%9f%87%b0+%e9%a6%99%e6%b8%af_%e5%94%af%e4%ba%91%e4%b8%93%e7%ba%bf_%e8%8d%92%e6%b3%b7%e4%b8%80%e6%96%97%e7%9a%84%e5%b0%be%e5%b7%b4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2U3ZjZmOC00ZWMyLTQwNjAtYTFiMi1lNzhlYmE4MzVhYjI@xckr.cokecloud.top:28595#KR.%E9%9F%A9%E5%9B%BD.B%20%7C%20%E9%AB%98%E9%80%9F.2x%E5%80%8D%E7%8E%87
-trojan://fe0b59ec-6af0-45db-9509-4c66b464af2e@d1.catcat321.com:49298?allowInsecure=1&peer=iepl.vnz1.cat.bilibili.com&sni=iepl.vnz1.cat.bilibili.com#%F0%9F%87%BB%F0%9F%87%B3%7C%E8%B6%8A%E5%8D%97-IEPL%2001
-ss://YWVzLTEyOC1jZmI6MjdqMk9p@hk03.fjk.wtf:45534#香港 IEPL Equinix HK2 A 03 1Gbps HBO TVB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGFmOTZmMS1kNTQ3LTRhOGQtYWVmNC0xMDMwYzIyYjJkYjQ@mg2.xfy003.cfd:54233#%E7%BE%8E%E5%9B%BDipv6-2
-trojan://6b5b43c9-05bd-471e-b502-d52c0dbd55fd@okanc.iepl.cac.cab:23008?allowInsecure=1&sni=www.bilibili.com#%f0%9f%87%a8%f0%9f%87%b3%7cCN%7c%e3%80%90ccbaohe.com%e3%80%91%e5%85%8d%e8%b4%b9%e8%b5%84%e6%ba%90%e5%af%bc%e8%88%aa%7c139
-vmess://eyJwcyI6IumfqeWbvSAwMeOAkHZpcDMgfCBORVfjgJEiLCJhZGQiOiJmMTAwMjEuZmx5Zmx5bGZseWZseXNicy5zYnMiLCJhaWQiOjAsImlkIjoiOTQ0ZjJhODQtNTgxMi00NjBlLTg4ZjctN2UzZmY0NzY4MzRlIiwibmV0IjoiZ3JwYyIsInNjeSI6ImF1dG8iLCJwb3J0IjoyMjg1MCwidGxzIjoidGxzIn0=
-trojan://ac1f3b35-1d03-3a85-beab-258d8f23edc6@dotu-krv2.03ezhg0qsa.download:11047?sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%B0%F0%9F%87%B7%20%E4%BA%8C%E6%98%9F%20%E9%9F%A9%E5%9B%BD01%20NTT%2FTROJAN
-trojan://29f0bb76-6f9c-4c6f-a2ae-356a8fee8741@ak2.firewoodzz.com:35002/?type=tcp&security=tls&sni=updates.sub-nthu.com#香港-主线路
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NWViZTBhNy01YWU3LTQzZjMtODU4MS1iYzEzZDdjNzJhMjk@tw.xfy003.cfd:32564#%E5%8F%B0%E6%B9%BEipv6-1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMDM2ZTQ4Ny05MTAyLTRlMDktODFmZC0wMWIwZjgzMmI5NzI@camy3aydjwpettcn.psuddd789.com:51123#4Jadi-104
-vmess://eyJ2IjoiMiIsInBzIjoiXHU1ZmI3XHU1NmZkLVx1NGYxOFx1NTMxNjIiLCJhZGQiOiJtLmNubWpjbi5jb20iLCJwb3J0IjoiMTY2NDQiLCJpZCI6ImJhMDAxODYzLWRkZDAtNGJlYi04OTMzLThhNzVhODk4YzdlYyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImJhMGY2Nzg4OTZlYTcwMzA4YTNlYTYxMWJiOTg1ZDdiLm1vYmdzbGIudGJjYWNoZS5jb20iLCJwYXRoIjoiXC8iLCJ0bHMiOiIifQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvUxBLeS8mOWMli1HUFQiLA0KICAiYWRkIjogInBsYW5iLm1vamNuLmNvbSIsDQogICJwb3J0IjogIjE2NjQ4IiwNCiAgImlkIjogImU0ODEyZWU1LTU1MmMtNGQ5Mi05NTZlLTQyOTQ3ZDkwOWVlMCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiOTdmMGRjMzZmNTRmYWNjNzBiZDU4MzY1NThhMDgzYzMubW9iZ3NsYi50YmNhY2hlLmNvbSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-vmess://eyJ2IjoiMiIsInBzIjoiQue7hOaXpeacrOKRo05GIEQrIiwiYWRkIjoibm5lcnRuLnZ4emp2Lnh5eiIsInBvcnQiOiIzNzkyNSIsImlkIjoiZDlmZTg1YWItMzNjYi0zYTljLTk1NjctMDgxZWE1ZGJlNGQ5IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:18433?security=tls&sni=hn.xiaohouzi.club#4Jadi-3167
-vless://9f8a9503-562a-4c09-87e5-e90c9599e852@rep.usa.spouver.ir:2689?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=chrome&type=grpc&serviceName=nama&sni=tgju.org&sid=b6c24852f86067a6#4Jadi-7367
-vless://08b18b09-a414-4a00-b17f-6da9cce559c7@jsxzcm.concubine.top:14627?encryption=none&security=none&type=tcp&headerType=none#%E6%A9%98%E5%AD%90%E5%85%AC%E7%9B%8A-%E9%A6%99%E6%B8%AFHK-4
-vmess://eyJhZGQiOiAidHc0LjU5NDg4OC54eXoiLCAiYWlkIjogMCwgImhvc3QiOiAidHc0LjU5NDg4OC54eXoiLCAiaWQiOiAiZGQ3NjM5Y2YtNjZkZC0zMDM4LWFiMGUtY2VmZTdlOWVmOWZiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92MnJheSIsICJwb3J0IjogMTE0NjMsICJwcyI6ICI0SmFkaS0xMzMzOSIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byJ9
-vmess://eyJ2IjoiMiIsInBzIjoiXHU2NWU1XHU2NzJjLTAxIiwiYWRkIjoiZ3RtMS5rdG13YW4ubmV0IiwicG9ydCI6IjEyODgzIiwiaWQiOiJhMjk0MDdmYi03NWI2LTQ4NTUtOWMxMy0xNmMzZTgyN2U3MTAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ2MS5wc3RhdHAuY29tIiwicGF0aCI6IlwvIiwidGxzIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoifHx8fHx8fHx8fFx1NTZmZFx1NTkxNlx1NzZmNFx1OGZkZXx8fHx8fHx8fHwiLCJhZGQiOiJjbi1ndWFuZ3pob3UuYXBwbGViZW5jaC50ZWNoIiwicG9ydCI6IjEwMDA5IiwiaWQiOiJmMWQ5ZDY2Mi03ZmM5LTQ5OTUtYjA0Ny0wNWM5OGFkMDUyODYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ0bXMuZGluZ3RhbGsuY29tIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJ0bHMiOiIifQ==
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TWpkbFptWTRZV0l5WkRVME9HTmtOdz09Ok5XWTNZbVppWVRVdE5qQTNZeTAwWXc9PQ@qc456987.kxrdy.cn:24798#%F0%9F%87%A6%F0%9F%87%BAAustralia%2002
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@ak1749.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:4444#4Mohsen-2874
+ss://YWVzLTEyOC1jZmI6MjdqMk9p@in03.fjk.wtf:45534#印度 马哈拉 IPLC A03
+ss://YWVzLTEyOC1jZmI6MjdqMk9p@jpid02.fjk.wtf:45534#日本 まつやまし auひかり ホーム1ギガ A 02
+ss://YWVzLTEyOC1jZmI6MjdqMk9p@sg25.fjk.wtf:45534#香港 油尖旺御金·国峯 名氣通電訊 A05
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@iplc.xiaohouzi.club:20032?security=tls&sni=$$hk-azure02.xiaohouzi.club#4Mohsen-3183
