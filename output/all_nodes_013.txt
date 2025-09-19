@@ -1,28 +1,29 @@
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:16955?security=reality&type=tcp&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#%F0%9F%8C%80%E5%85%B6%E4%BB%9614-TH%20%7C%20%E2%AC%87%EF%B8%8F%206.5MB%2Fs%20%7C0%25%7CYoutube%7COpenai
-vless://592ab21e-194a-463d-9d3a-655c61fd8995@Netherlands.amirconfigpanelllll.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#4Sarina-6173
-ss://YWVzLTEyOC1nY206MWIwZjRlOTAtMjUwMy00OGU1LTg1NTQtZGRjZTQ1NjE3YjNm@awes35lesl.blhao0o.dpdns.org:12029#%f0%9f%87%a8%f0%9f%87%b3+%e5%8f%b0%e6%b9%be_%e9%9d%92%e4%ba%91%e4%b8%93%e7%ba%bf_%e8%8f%b2%e8%b0%a2%e5%b0%94%e7%9a%84%e5%b0%8f%e7%a9%b4
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@sub.xiaohouzi.club:16011?security=tls&sni=$$azhk095.xiaohouzi.club#4Sarina-3538
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMDY1YmJmMC03ZTdmLTQ2N2EtOWFlNS0wNDM1ZWU3MDlkYmI@idtf.cokecloud.top:32725#IN.%E5%8D%B0%E5%BA%A6.A
-trojan://90e7b2f3-fb61-4fd7-959f-176e9a51d8d7@us003.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E7%BE%8E%E5%9B%BD03
-vmess://eyJ2IjoiMiIsInBzIjoiXHU4MmYxXHU1NmZkLVx1NGYxOFx1NTMxNi1HUFQiLCJhZGQiOiJwbGFuYi5tb2pjbi5jb20iLCJwb3J0IjoiMTY2NDUiLCJpZCI6IjgyMDUxN2MxLTFjZmItNDdmZi1iZmRkLTQ4ZmFmODM3NzNiNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImNkOGU4OGQ4YmRmNjM3OGYwMDM0NmMyOTczNjIwNTA2Lm1vYmdzbGIudGJjYWNoZS5jb20iLCJwYXRoIjoiXC8iLCJ0bHMiOiIifQ==
-ss://YWVzLTEyOC1jZmI6MjdqMk9p@ru03.fjk.wtf:45534#俄罗斯 03
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7jwn4esIOaWsOWKoOWdoV/ohb7orq/kupHkuJPnur9f54Gr56We55qE6J665peL6ZmA6J665b+r5YeG54ug57KJ6bih6bihIiwNCiAgImFkZCI6ICJtYW5hZ2VyLmdnaGJqbmpiZmYuc2hvcCIsDQogICJwb3J0IjogIjEwMDAwIiwNCiAgImlkIjogImU0NGQ5NWI5LWYyYmYtNDlmOC04MGFjLWM1N2U2NjY0Zjk2YyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+ss://YWVzLTEyOC1jZmI6MjdqMk9p@hr05.fjk.wtf:45534#日本 MPLS A5 1000Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNDI3NTBlZi0xOTU0LTRmNmItYjdjZC01NTY1ZTlmOWFhOTM@yn1.xfy003.cfd:37678#%E8%B6%8A%E5%8D%97ipv6-1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NDEwZWRmMS04ZjlmLTRmNDItOWRlNC0zMWZiNzI3NWExM2U@e4d7a1c2f3b80976a5e2c1d4b3f0a987.1kmei.com:13702#%E5%8D%B0%E5%BA%A601-%E9%AB%98%E9%80%9F-%E7%A8%B3%E5%AE%9A
+vless://2ba7e4d0-f2f9-456e-a43e-f5a724d7e367@us002.421421.xyz:20230?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=tj&security=reality&fp=chrome&sni=www.nvidia.com&pbk=Bq_RQyPwxp7zTYywC37jLxmcjV9npNN6H6_1d_R6GT0&sid=c9916730#%E7%BE%8E%E5%9B%BD02
+ss://YWVzLTEyOC1nY206MDE3MjFlNDMtNTM4OS00Zjk3LWIyMWMtOTAwYWJiMmJkYTll@awes35lesl.blhao0o.dpdns.org:12008#%f0%9f%87%ad%f0%9f%87%b0_%e9%a6%99%e6%b8%af
+ss://YWVzLTEyOC1nY206MDUxODIwMDktZjRmMi00NzEyLTkwNzMtYmEwYTA1NTgzY2Zh@awes35lesl.blhao0o.dpdns.org:12028#%f0%9f%87%ba%f0%9f%87%b8+%e7%be%8e%e5%9b%bd_%e5%b4%a9%e9%93%81%e4%b8%93%e7%ba%bf_%e5%8d%a1%e7%bb%b4%e7%9a%84%e9%ba%bb%e8%8a%b1%e8%be%ab
+vless://aaa3d1db-44b0-4303-9c43-ca083acbcf61@cp.dayhostpro.com:45655?flow=xtls-rprx-vision&type=tcp&headerType=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&security=reality&fp=chrome&sni=www.tradingview.com&pbk=jeHj2bSbC3OI17X0ZR2vqrzXFQI_MtgMylJKiGPkcRw&sid=4f#4Jadi-7851
+ss://YWVzLTEyOC1jZmI6MjdqMk9p@twgame07.fjk.wtf:45534#台湾 IEPL Game G
+ss://YWVzLTEyOC1nY206MWIwZjRlOTAtMjUwMy00OGU1LTg1NTQtZGRjZTQ1NjE3YjNm@awes35lesl.blhao0o.dpdns.org:12010#%f0%9f%87%ad%f0%9f%87%b0+%e9%a6%99%e6%b8%af_%e5%94%af%e4%ba%91%e4%b8%93%e7%ba%bf_%e8%8d%92%e6%b3%b7%e4%b8%80%e6%96%97%e7%9a%84%e5%b0%be%e5%b7%b4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTcwYmM3Yy1mZGY1LTQzYmYtOWJlMS1jYTMxMjY4NzkwN2U@e4d7a1c2f3b80976a5e2c1d4b3f0a987.1kmei.com:21547#%E5%BE%B7%E5%9B%BD01-%E9%AB%98%E9%80%9F-%E4%B8%93%E7%BA%BF
+vless://9af68224-c0ba-4323-a86c-f095b88a26e8@tt1.hennessypro.site:4001?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#4Jadi-7257
+vmess://eyJhZGQiOiAiaGtqY2RuMDMuZG9yYWJiYi50b3AiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTUyODI5NWUtYzQ5Ny00M2FjLWEwOGQtYzA0MDY2MmI5MzQ0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDQ4MDUiLCAicHMiOiAiNEphZGktMTMwODYiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZGYzY2QyZi0wNjk5LTRlMTItYjc2Ni02N2E0MDY1ODQ1Yjc@tw.xfy003.cfd:32564#%E5%8F%B0%E6%B9%BEipv6-1
+trojan://ac1f3b35-1d03-3a85-beab-258d8f23edc6@dotu-hkv2.03ezhg0qsa.download:11006?sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%AD%F0%9F%87%B0%20%E4%BA%8C%E6%98%9F%20%E9%A6%99%E6%B8%AF01%20HKBGP%2FTROJAN
+vless://d83c8440-4bd9-4695-aec5-c39b52313e1c@wolf558.royalmt.life:53624?encryption=none&security=none&type=ws&path=/#4Jadi-8537
+vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@500770.xyz:34074?allowInsecure=0&sni=www.ucla.edu&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#13%7CUS_speednode_0030
+ss://YWVzLTI1Ni1nY206MjhiYjJkZjEtNDM2My00OTZlLThkN2ItNmE2MjI4NzNkYzM2@us3.teacat4.xyz:50013#美国3
+ss://YWVzLTEyOC1jZmI6MjdqMk9p@sg02.fjk.wtf:45534#香港 IPLC Equinix HK2 A 02 1Gbps HBO TVB
+trojan://21e10785-99c6-316e-a184-a03384ee06e5@hn.xiaohouzi.club:18835?security=tls&sni=$$feilvbin.xiaohouzi.club#4Jadi-3209
+vmess://eyJ2IjoiMiIsInBzIjoiXHU2NWU1XHU2NzJjLVx1NGYxOFx1NTMxNjIiLCJhZGQiOiJtLmNubWppbi5uZXQiLCJwb3J0IjoiMTY2MTciLCJpZCI6ImRhOTEyMTRlLWIwMjItNGY2MS1hNzI0LTAxYzUzODE3MGU2MiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImFlOWMwZGU0NzRjNjRjMDNkYjllZGJmM2ZjNGQ4YzY4Lm1vYmdzbGIudGJjYWNoZS5jb20iLCJwYXRoIjoiXC8iLCJ0bHMiOiIifQ==
+trojan://453121aa-6c1d-33ed-a175-cb46aa8f22f0@suningyunyou.judelvin.com:13033?allowInsecure=0&sni=hg2983hrfx.qqtoup81.top#13%7CCN_speednode_0008
+ss://YWVzLTI1Ni1nY206YzIwNzk1MDAtYTliOC00YzFjLThlOGMtZTcwZjMxYzAwODI1@n0.11151115.xyz:41289#%E6%B2%99%E7%89%B9
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TnprM1pHTTBOVGxrTnpJM01USmlOQT09OlpUUTJNekl3WW1FdE16azFaUzAwT0E9PQ@yy1.vyunyunnode.top:35615#%E6%B3%B0%E5%9B%BD%F0%9F%87%B9%F0%9F%87%AD01
+vless://1e3e92fc-c406-4661-9347-79aa0865ed9b@s15.leader21.top:5054?type=ws&encryption=none&security=none&host=s15.leader21.top&path=%2Fhttp#4Jadi-4885
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlYxLee+juWbvTAxIOS4ree7p0QgfCAxLjV4IiwNCiAgImFkZCI6ICJpbjA0Lm15MTE4OC5vcmciLA0KICAicG9ydCI6ICI2NDAxNCIsDQogICJpZCI6ICI1MzFlNmM0Yi0yZjVmLTM2M2YtODU1Ni0zNTMxYjg1NDIyZDUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImluMDQubXkxMTg4Lm9yZyIsDQogICJwYXRoIjogIi9iaXRlYiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9
+vless://4aa9ee7a-ffee-4ca4-a588-f5fa9e979c38@jp003.421421.xyz:20230?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=tj&security=reality&fp=chrome&sni=www.nvidia.com&pbk=4DQqVav-gK4Y1cMDDt4qyVpQf0GB6NkPgCPnjwude3c&sid=d3b6f0c3#%E6%97%A5%E6%9C%AC03
+vless://41032e76-519f-43d4-8768-603fc7afbb40@Evay_vpn.heloisfood.ir:8678?type=xhttp&mode=auto&host=Evay_vpn.heloisfood.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed=2048&security=none#4Jadi-5673
+vless://6fcb287e-1b92-4c03-b5ca-aa668dad2f51@arv.vipmehspd.ir:981?encryption=none&security=none&type=tcp&headerType=none#4Jadi-6584
 trojan://90e7b2f3-fb61-4fd7-959f-176e9a51d8d7@us004.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E7%BE%8E%E5%9B%BD04
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@gy01.hunheiydd.xyz:45883?security=reality&type=tcp&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF18%20%7C%20%E2%AC%87%EF%B8%8F%204.2MB%2Fs%20%7C0%25%7CNetflix%7CDisney%7CYoutube
-ss://YWVzLTI1Ni1nY206YzIwNzk1MDAtYTliOC00YzFjLThlOGMtZTcwZjMxYzAwODI1@n0.11151115.xyz:44798#%E7%BC%85%E7%94%B8
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:49361?security=tls&sni=hnm.xiaohouzi.club#4Sarina-3157
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:19362?security=tls&sni=aws-hk03.xiaohouzi.club#4Sarina-3517
-trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36301?security=tls#4Sarina-3906
-trojan://429ad146-8f43-4dd4-8fb3-cca3f3a30c63@sg008.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%96%B0%E5%8A%A0%E5%9D%A108%7C%E6%B5%81%E5%AA%92%E4%BD%93
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MTgwZDlkYzcwNzVlN2ZlNTA5Yg@it091.jd.kunlunpx.com:45587/?plugin=simple-obfs%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20091
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZTZmYWVjNi00YmNlLTQ1MzctOWY1My0wYjMxZGJlZWY1NTg@turtf.cokecloud.top:53355#TUR.%E5%9C%9F%E8%80%B3%E5%85%B6.A
-ss://YWVzLTI1Ni1nY206YzIwNzk1MDAtYTliOC00YzFjLThlOGMtZTcwZjMxYzAwODI1@n0.11151115.xyz:33787#%E6%97%A5%E6%9C%AC3
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TWpkbFptWTRZV0l5WkRVME9HTmtOdz09Ok5EWXlNVGcwT1RjdE9XUTFNaTAwTUE9PQ@azyeupwww.4waf46.cn:24797#%F0%9F%87%B0%F0%9F%87%B7Korea%2002
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p110.panda001.net:54345#4Sarina-1544
-trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-jp.04z3susick.download:5620?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#4Sarina-3469
-trojan://fe0b59ec-6af0-45db-9509-4c66b464af2e@R2.tube-cat.com:9310?allowInsecure=1&peer=twq1.cat.bilibili.com&sni=twq1.cat.bilibili.com#%F0%9F%87%B9%F0%9F%87%BC%7C%E5%8F%B0%E6%B9%BE-%E4%B8%AD%E8%BD%AC%2001
-ss://YWVzLTI1Ni1nY206YzIwNzk1MDAtYTliOC00YzFjLThlOGMtZTcwZjMxYzAwODI1@n0.11151115.xyz:39263#%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A2
-trojan://5410edf1-8f9f-4f42-9de4-31fb7275a13e@e4d7a1c2f3b80976a5e2c1d4b3f0a987.1kmei.com:17009?allowInsecure=1&peer=www.bilibili.com&sni=www.bilibili.com&type=tcp#%E7%BE%8E%E5%9B%BDUA1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTcwYmM3Yy1mZGY1LTQzYmYtOWJlMS1jYTMxMjY4NzkwN2U@e4d7a1c2f3b80976a5e2c1d4b3f0a987.1kmei.com:18001#%E9%A6%99%E6%B8%AF01-%E9%AB%98%E9%80%9F-%E4%B8%93%E7%BA%BF
-ss://YWVzLTEyOC1jZmI6MjdqMk9p@sgp06.fjk.wtf:45534#新加坡 Magic IEPL 中继 A01 Netflix
-ss://YWVzLTI1Ni1nY206NEFIWjdOWFZSMElOTlBYQg==@ti3hyra4.slashdevslashnetslashtun.net:17007#%F0%9F%87%BA%F0%9F%87%B8%20US-07
